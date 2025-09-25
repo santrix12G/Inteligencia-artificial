@@ -1,0 +1,2 @@
+Carpeta para regiones centrales extraídas
+Las imágenes se nombran automáticamente con el color detectado
